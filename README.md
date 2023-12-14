@@ -22,13 +22,27 @@
 ### :man_technologist: About Me
 
 I am a Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Android developer.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I tried to build different types of Mobile app to explore my learning and read the official Android docs.
-
-- :mailbox: How to reach me [![Linkedin Badge](https://img.shields.io/badge/-rishi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rushi-ra/)
+- 🌱 I’m currently learning as much I can to become brand in 📱MobileAppDev
+- 💻 I’m looking for freelancing project.
+- 📱 Check out apps I created [Portfolio](https://rishiz.net/portfolio/)
+- 📙 Exploring Technical Content Writing.
+- ⚡ In my free time, I tried to build different types of Mobile app to explore my learning and read the official Android docs.
+---
+### Connect with me:
+[![website](./img/globe-light.svg)](https://rishiz.net/)
+[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 ---
   ### :hammer_and_wrench: Languages and Tools
 <div>
@@ -46,7 +60,7 @@ I am a Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishiroid&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
-### :writing_hand: Blog Posts 
+### :orange_book: Blog Posts 
 <!-- BLOG-POST-LIST:START -->
 - [AIDL in Android: Building Inter-Process Communication](https://rishiz.net/aidl-in-android-building-inter-process-communication/)
 - [Android App Components](https://rishiz.net/android-app-components/)
@@ -54,6 +68,8 @@ I am a Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - [Networking in Android](https://rishiz.net/https-rishiz-net-networking-in-android/)
 - [APIs in Android: Understanding the Backbone of Modern Software](https://rishiz.net/apis-in-android-understanding-the-backbone-of-modern-software/)
 <!-- BLOG-POST-LIST:END -->
+➡️ [more blog posts...](https://rishiz.net/)
+
 <!--
 **rishiroid/rishiroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
