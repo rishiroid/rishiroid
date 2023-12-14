@@ -29,7 +29,7 @@ I am a Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - :zap: In my free time, I tried to build different types of Mobile app to explore my learning and read the official Android docs.
 
 - :mailbox: How to reach me [![Linkedin Badge](https://img.shields.io/badge/-rishi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rushi-ra/)
-  ---
+---
   ### :hammer_and_wrench: Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -40,7 +40,7 @@ I am a Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-
+---
 ### :fire: My Stats 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rishiroid&theme=github-dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishiroid&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
