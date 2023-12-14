@@ -48,6 +48,11 @@ I am a Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ### :writing_hand: Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [AIDL in Android: Building Inter-Process Communication](https://rishiz.net/aidl-in-android-building-inter-process-communication/)
+- [Android App Components](https://rishiz.net/android-app-components/)
+- [Weather App in Android using Retrofit](https://rishiz.net/weather-app-in-android-using-retrofit/)
+- [Networking in Android](https://rishiz.net/https-rishiz-net-networking-in-android/)
+- [APIs in Android: Understanding the Backbone of Modern Software](https://rishiz.net/apis-in-android-understanding-the-backbone-of-modern-software/)
 <!-- BLOG-POST-LIST:END -->
 <!--
 **rishiroid/rishiroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
