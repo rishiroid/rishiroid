@@ -1,4 +1,4 @@
-<div id="header" align="center"><img src="https://media.giphy.com/media/mWK6qsWFY6w5xMKG5D/giphy.gif" width="100"/></div>
+<div id="header" align="center"><img src="https://media.giphy.com/media/mWK6qsWFY6w5xMKG5D/giphy.gif" width="250"/></div>
 <div align="center"><img src="https://komarev.com/ghpvc/?username=rishiroid&style=flat-square&color=blue" alt=""/></div>  
 
 ### Hi there <a href="https://rishiz.net/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
