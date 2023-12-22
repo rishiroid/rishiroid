@@ -20,11 +20,11 @@ I am a Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ---  
 ### :orange_book: Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Content Provider in Android](https://rishiz.net/content-provider-in-android/)
 - [AIDL in Android: Building Inter-Process Communication](https://rishiz.net/aidl-in-android-building-inter-process-communication/)
 - [Android App Components](https://rishiz.net/android-app-components/)
 - [Weather App in Android using Retrofit](https://rishiz.net/weather-app-in-android-using-retrofit/)
 - [Networking in Android](https://rishiz.net/https-rishiz-net-networking-in-android/)
-- [APIs in Android: Understanding the Backbone of Modern Software](https://rishiz.net/apis-in-android-understanding-the-backbone-of-modern-software/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://rishiz.net/)
  
